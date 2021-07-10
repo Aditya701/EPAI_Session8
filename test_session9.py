@@ -7,7 +7,7 @@ import re
 import math
 
 from session9 import *
-
+#readme content check
 
 README_CONTENT_CHECK_FOR = ['namedtuple', 'profile', 'dictionary', 
 'Faker', 'age', 'location', 'blood']
