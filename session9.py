@@ -7,7 +7,7 @@ import re
 import random
 import string
 from datetime import date
-# faker installed & imported
+# faker installed & imported.
 fake = Faker()
 
 def generate_profiles_using_namedtuple(no_profiles: int): 
